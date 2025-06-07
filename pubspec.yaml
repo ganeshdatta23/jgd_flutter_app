@@ -22,7 +22,7 @@ dependencies:
   flutter_local_notifications: ^16.2.0
   timezone: ^0.9.2
   intl: ^0.18.1
-  sun_flare: ^3.0.0
+  # sun_flare: ^3.0.0
   vector_math: ^2.1.4
   google_fonts: ^6.1.0
   url_launcher: ^6.2.1
